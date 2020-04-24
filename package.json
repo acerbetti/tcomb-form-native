@@ -21,6 +21,9 @@
   "dependencies": {
     "tcomb-validation": "^3.0.0"
   },
+  "peerDependencies": {
+    "@react-native-community/datetimepicker": "^2.3.2",
+  },
   "devDependencies": {
     "@types/eslint-plugin-prettier": "^2.2.0",
     "@types/prettier": "^1.7.0",
